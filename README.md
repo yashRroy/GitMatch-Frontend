@@ -28,7 +28,7 @@ GitMatch  is a MERN stack application where developers can create profiles, send
 
 ## 🔧 API Endpoints
 
-The frontend interacts with the backend API hosted in the https://github.com/prakharAgr2001/GitMatch-backend. Ensure the backend is running before using the frontend.
+The frontend interacts with the backend API hosted in the https://github.com/yashRroy/GitMatch-Backend-. Ensure the backend is running before using the frontend.
 
 
 
