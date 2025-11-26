@@ -9,7 +9,7 @@ GitMatch  is a MERN stack application where developers can create profiles, send
 
 -  **Frontend:** React.js, Vite, Redux Toolkit, Tailwind CSS
 -  **State Management:** Redux Toolkit
--  **Backend:** [GitMatch  Backend](https://github.com/prakharAgr2001/GitMatch-backend)
+-  **Backend:** [GitMatch  Backend]((https://github.com/yashRroy/GitMatch-Backend-))
 -  **Authentication:** JWT
 -  **Database:** MongoDB (via backend)
 
